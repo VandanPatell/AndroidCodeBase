@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/scale"
+        android:title="Scale" />
+    <item
+        android:id="@+id/rotate"
+        android:title="Rotate" />
+</menu>
